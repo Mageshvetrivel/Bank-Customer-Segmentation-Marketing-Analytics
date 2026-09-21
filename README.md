@@ -189,19 +189,19 @@ This cluster has the highest average transaction frequency at approximately 2.14
 
 ### Transaction Amount Distribution
 
-![Transaction Amount Distribution](screenshots/screenshot_1.png)
+![Transaction Amount Distribution](screenshots/Screenshot_1.png)
 
 ### Top Locations by Transaction Value
 
-![Top Locations by Transaction Value](screenshots/screenshot_2.png)
+![Top Locations by Transaction Value](screenshots/Screenshot_2.png)
 
 ### Customer Transaction Frequency
 
-![Customer Transaction Frequency](screenshots/screenshot_3.png)
+![Customer Transaction Frequency](screenshots/Screenshot_3.png)
 
 ### RFM Customer Segmentation
 
-![RFM Customer Segmentation](screenshots/screenshot_4.png)
+![RFM Customer Segmentation](screenshots/Screenshot_4.png)
 
 
 ## 💡 Key Business Insights
