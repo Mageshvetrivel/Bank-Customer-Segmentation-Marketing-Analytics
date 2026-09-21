@@ -185,6 +185,24 @@ This cluster has the highest average transaction frequency at approximately 2.14
 **Marketing opportunity:** Focus on retention, loyalty benefits and personalized premium-product campaigns.
 
 ---
+## 📊 Project Visualizations
+
+### Transaction Amount Distribution
+
+![Transaction Amount Distribution](screenshots/screenshot_1.png)
+
+### Top Locations by Transaction Value
+
+![Top Locations by Transaction Value](screenshots/screenshot_2.png)
+
+### Customer Transaction Frequency
+
+![Customer Transaction Frequency](screenshots/screenshot_3.png)
+
+### RFM Customer Segmentation
+
+![RFM Customer Segmentation](screenshots/screenshot_4.png)
+
 
 ## 💡 Key Business Insights
 
